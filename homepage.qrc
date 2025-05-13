@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/images">
+        <file>level_1_hp.png</file>
+    </qresource>
+</RCC>

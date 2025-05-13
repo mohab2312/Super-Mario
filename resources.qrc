@@ -1,0 +1,7 @@
+<RCC>
+    <qresource prefix="/images">
+        <file>level_1.png</file>
+    </qresource>
+    <qresource prefix="/"/>
+    <qresource prefix="/homepage"/>
+</RCC>

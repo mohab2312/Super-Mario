@@ -1,0 +1,24 @@
+<RCC>
+    <qresource prefix="/images">
+        <file>L1C.png</file>
+        <file>m1L.png</file>
+        <file>m1R.png</file>
+        <file>m2L.png</file>
+        <file>m2R.png</file>
+        <file>m3L.png</file>
+        <file>m3R.png</file>
+        <file>m4L.png</file>
+        <file>m4R.png</file>
+        <file>m5L.png</file>
+        <file>m5R.png</file>
+        <file>m6L.png</file>
+        <file>m6R.png</file>
+        <file>m7L.png</file>
+        <file>m7R.png</file>
+        <file>mCoin.png</file>
+        <file>mJ1L.png</file>
+        <file>mJ1R.png</file>
+        <file>mJ2L.png</file>
+        <file>mJ2R.png</file>
+    </qresource>
+</RCC>
