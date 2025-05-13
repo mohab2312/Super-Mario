@@ -1,0 +1,38 @@
+<RCC>
+    <qresource prefix="/images">
+        <file>Resources/images/background_mario.jpg</file>
+        <file>Resources/images/L1C.png</file>
+        <file>Resources/images/level_1_hp.png</file>
+        <file>Resources/images/level_1.png</file>
+        <file>Resources/images/level_2.png</file>
+        <file>Resources/images/m1.png</file>
+        <file>Resources/images/m1L.png</file>
+        <file>Resources/images/m1R.png</file>
+        <file>Resources/images/m2.png</file>
+        <file>Resources/images/m2L.png</file>
+        <file>Resources/images/m2R.png</file>
+        <file>Resources/images/m3.png</file>
+        <file>Resources/images/m3L.png</file>
+        <file>Resources/images/m3R.png</file>
+        <file>Resources/images/m4.png</file>
+        <file>Resources/images/m4L.png</file>
+        <file>Resources/images/m4R.png</file>
+        <file>Resources/images/m5.png</file>
+        <file>Resources/images/m5L.png</file>
+        <file>Resources/images/m5R.png</file>
+        <file>Resources/images/m6.png</file>
+        <file>Resources/images/m6L.png</file>
+        <file>Resources/images/m6R.png</file>
+        <file>Resources/images/m7.png</file>
+        <file>Resources/images/m7L.png</file>
+        <file>Resources/images/m7R.png</file>
+        <file>Resources/images/m8.png</file>
+        <file>Resources/images/m9.png</file>
+        <file>Resources/images/m10.png</file>
+        <file>Resources/images/mCoin.png</file>
+        <file>Resources/images/mJ1L.png</file>
+        <file>Resources/images/mJ1R.png</file>
+        <file>Resources/images/mJ2L.png</file>
+        <file>Resources/images/mJ2R.png</file>
+    </qresource>
+</RCC>
