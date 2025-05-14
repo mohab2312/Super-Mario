@@ -1359,6 +1359,8 @@ mainwindow.o: /Users/hoba/Desktop/Super-Mario/SuperMario/mainwindow.cpp /Users/h
 		/Users/hoba/Desktop/Super-Mario/SuperMario/mysterybox.h \
 		/Users/hoba/Qt/6.8.2/macos/lib/QtGui.framework/Headers/QBrush \
 		/Users/hoba/Qt/6.8.2/macos/lib/QtGui.framework/Headers/qbrush.h \
+		/Users/hoba/Qt/6.8.2/macos/lib/QtCore.framework/Headers/QDebug \
+		/Users/hoba/Qt/6.8.2/macos/lib/QtCore.framework/Headers/qdebug.h \
 		/Users/hoba/Qt/6.8.2/macos/lib/QtGui.framework/Headers/QFont \
 		/Users/hoba/Qt/6.8.2/macos/lib/QtGui.framework/Headers/qfont.h \
 		/Users/hoba/Qt/6.8.2/macos/lib/QtGui.framework/Headers/QColor \
