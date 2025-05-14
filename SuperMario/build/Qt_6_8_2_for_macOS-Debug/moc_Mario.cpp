@@ -6,7 +6,7 @@
 ** WARNING! All changes made in this file will be lost!
 *****************************************************************************/
 
-#include "../../Mario.h"
+#include "../../../../../Super-Mario/SuperMario/Mario.h"
 #include <QtCore/qmetatype.h>
 
 #include <QtCore/qtmochelpers.h>
